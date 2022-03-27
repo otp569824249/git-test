@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("hello git hot-fix commit2!");
         System.out.println("hello git ssh push!");
         System.out.println("hello git ssh pull test!");
+        System.out.println("hello git ssh github update test!");
     }
 }
